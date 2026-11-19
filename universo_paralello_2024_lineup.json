@@ -1,0 +1,2903 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": 1,
+      "name": "Adam Ten",
+      "stage": "Main Floor",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T14:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Airi",
+      "stage": "Main Floor",
+      "start": "2024-12-27T14:00:00",
+      "end": "2024-12-27T16:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Akari System",
+      "stage": "Main Floor",
+      "start": "2024-12-27T16:00:00",
+      "end": "2024-12-27T18:00:00"
+    },
+    {
+      "id": 4,
+      "name": "Aladin",
+      "stage": "Main Floor",
+      "start": "2024-12-27T18:30:00",
+      "end": "2024-12-27T20:30:00"
+    },
+    {
+      "id": 5,
+      "name": "Alok",
+      "stage": "Main Floor",
+      "start": "2024-12-27T20:30:00",
+      "end": "2024-12-27T22:30:00"
+    },
+    {
+      "id": 6,
+      "name": "Animalien",
+      "stage": "Main Floor",
+      "start": "2024-12-27T22:30:00",
+      "end": "2024-12-28T00:30:00"
+    },
+    {
+      "id": 7,
+      "name": "Anna",
+      "stage": "Main Floor",
+      "start": "2024-12-28T01:00:00",
+      "end": "2024-12-28T03:00:00"
+    },
+    {
+      "id": 8,
+      "name": "Arodes",
+      "stage": "Main Floor",
+      "start": "2024-12-28T03:00:00",
+      "end": "2024-12-28T05:00:00"
+    },
+    {
+      "id": 9,
+      "name": "Artifex",
+      "stage": "Main Floor",
+      "start": "2024-12-28T05:00:00",
+      "end": "2024-12-28T07:00:00"
+    },
+    {
+      "id": 10,
+      "name": "Astrix",
+      "stage": "Main Floor",
+      "start": "2024-12-28T07:30:00",
+      "end": "2024-12-28T09:30:00"
+    },
+    {
+      "id": 11,
+      "name": "Athzira",
+      "stage": "Main Floor",
+      "start": "2024-12-28T09:30:00",
+      "end": "2024-12-28T11:30:00"
+    },
+    {
+      "id": 12,
+      "name": "Aura Vortex",
+      "stage": "Main Floor",
+      "start": "2024-12-28T11:30:00",
+      "end": "2024-12-28T13:30:00"
+    },
+    {
+      "id": 13,
+      "name": "Avan7",
+      "stage": "Main Floor",
+      "start": "2024-12-28T14:00:00",
+      "end": "2024-12-28T16:00:00"
+    },
+    {
+      "id": 14,
+      "name": "Azyz",
+      "stage": "Main Floor",
+      "start": "2024-12-28T16:00:00",
+      "end": "2024-12-28T18:00:00"
+    },
+    {
+      "id": 15,
+      "name": "Becker",
+      "stage": "Main Floor",
+      "start": "2024-12-28T18:00:00",
+      "end": "2024-12-28T20:00:00"
+    },
+    {
+      "id": 16,
+      "name": "Bhaskar",
+      "stage": "Main Floor",
+      "start": "2024-12-28T20:30:00",
+      "end": "2024-12-28T22:30:00"
+    },
+    {
+      "id": 17,
+      "name": "Blazy",
+      "stage": "Main Floor",
+      "start": "2024-12-28T22:30:00",
+      "end": "2024-12-29T00:30:00"
+    },
+    {
+      "id": 18,
+      "name": "Burn In Noise",
+      "stage": "Main Floor",
+      "start": "2024-12-29T00:30:00",
+      "end": "2024-12-29T02:30:00"
+    },
+    {
+      "id": 19,
+      "name": "Camila Jun",
+      "stage": "Main Floor",
+      "start": "2024-12-29T03:00:00",
+      "end": "2024-12-29T05:00:00"
+    },
+    {
+      "id": 20,
+      "name": "Claudinho Brasil",
+      "stage": "Main Floor",
+      "start": "2024-12-29T05:00:00",
+      "end": "2024-12-29T07:00:00"
+    },
+    {
+      "id": 21,
+      "name": "D-Nox",
+      "stage": "Main Floor",
+      "start": "2024-12-29T07:30:00",
+      "end": "2024-12-29T09:30:00"
+    },
+    {
+      "id": 22,
+      "name": "Dang3r",
+      "stage": "Main Floor",
+      "start": "2024-12-29T09:30:00",
+      "end": "2024-12-29T11:30:00"
+    },
+    {
+      "id": 23,
+      "name": "Dayana",
+      "stage": "Main Floor",
+      "start": "2024-12-29T11:30:00",
+      "end": "2024-12-29T13:30:00"
+    },
+    {
+      "id": 24,
+      "name": "Departamento",
+      "stage": "Main Floor",
+      "start": "2024-12-29T14:00:00",
+      "end": "2024-12-29T16:00:00"
+    },
+    {
+      "id": 25,
+      "name": "DJ Feio",
+      "stage": "Main Floor",
+      "start": "2024-12-29T16:00:00",
+      "end": "2024-12-29T18:00:00"
+    },
+    {
+      "id": 26,
+      "name": "Djuma Soundsystem",
+      "stage": "Main Floor",
+      "start": "2024-12-29T18:00:00",
+      "end": "2024-12-29T20:00:00"
+    },
+    {
+      "id": 27,
+      "name": "Dor Danino",
+      "stage": "Main Floor",
+      "start": "2024-12-29T20:30:00",
+      "end": "2024-12-29T22:30:00"
+    },
+    {
+      "id": 28,
+      "name": "Doozie",
+      "stage": "Main Floor",
+      "start": "2024-12-29T22:30:00",
+      "end": "2024-12-30T00:30:00"
+    },
+    {
+      "id": 29,
+      "name": "Dre Guazzelli",
+      "stage": "Main Floor",
+      "start": "2024-12-30T00:30:00",
+      "end": "2024-12-30T02:30:00"
+    },
+    {
+      "id": 30,
+      "name": "Durs",
+      "stage": "Main Floor",
+      "start": "2024-12-30T03:00:00",
+      "end": "2024-12-30T05:00:00"
+    },
+    {
+      "id": 31,
+      "name": "Earthspace",
+      "stage": "Main Floor",
+      "start": "2024-12-30T05:00:00",
+      "end": "2024-12-30T07:00:00"
+    },
+    {
+      "id": 32,
+      "name": "Ekanta",
+      "stage": "Main Floor",
+      "start": "2024-12-30T07:00:00",
+      "end": "2024-12-30T09:00:00"
+    },
+    {
+      "id": 33,
+      "name": "Element",
+      "stage": "Main Floor",
+      "start": "2024-12-30T09:30:00",
+      "end": "2024-12-30T11:30:00"
+    },
+    {
+      "id": 34,
+      "name": "Evil Oil Man",
+      "stage": "Main Floor",
+      "start": "2024-12-30T11:30:00",
+      "end": "2024-12-30T13:30:00"
+    },
+    {
+      "id": 35,
+      "name": "Fel C",
+      "stage": "Main Floor",
+      "start": "2024-12-30T13:30:00",
+      "end": "2024-12-30T15:30:00"
+    },
+    {
+      "id": 36,
+      "name": "Fernanda Pistelli",
+      "stage": "Main Floor",
+      "start": "2024-12-30T16:00:00",
+      "end": "2024-12-30T18:00:00"
+    },
+    {
+      "id": 37,
+      "name": "Freedom Fighters",
+      "stage": "Main Floor",
+      "start": "2024-12-30T18:00:00",
+      "end": "2024-12-30T20:00:00"
+    },
+    {
+      "id": 38,
+      "name": "Gaba Kamer",
+      "stage": "Main Floor",
+      "start": "2024-12-30T20:00:00",
+      "end": "2024-12-30T22:00:00"
+    },
+    {
+      "id": 39,
+      "name": "Giorgia Angiuli",
+      "stage": "Main Floor",
+      "start": "2024-12-30T22:30:00",
+      "end": "2024-12-31T00:30:00"
+    },
+    {
+      "id": 40,
+      "name": "Gotalien",
+      "stage": "Main Floor",
+      "start": "2024-12-31T00:30:00",
+      "end": "2024-12-31T02:30:00"
+    },
+    {
+      "id": 41,
+      "name": "Groundbass",
+      "stage": "Main Floor",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T05:00:00"
+    },
+    {
+      "id": 42,
+      "name": "Inside Mind",
+      "stage": "Main Floor",
+      "start": "2024-12-31T05:00:00",
+      "end": "2024-12-31T07:00:00"
+    },
+    {
+      "id": 43,
+      "name": "Jackson",
+      "stage": "Main Floor",
+      "start": "2024-12-31T07:00:00",
+      "end": "2024-12-31T09:00:00"
+    },
+    {
+      "id": 44,
+      "name": "James West",
+      "stage": "Main Floor",
+      "start": "2024-12-31T09:30:00",
+      "end": "2024-12-31T11:30:00"
+    },
+    {
+      "id": 45,
+      "name": "Joris Voorn",
+      "stage": "Main Floor",
+      "start": "2024-12-31T11:30:00",
+      "end": "2024-12-31T13:30:00"
+    },
+    {
+      "id": 46,
+      "name": "Kobot",
+      "stage": "Main Floor",
+      "start": "2024-12-31T13:30:00",
+      "end": "2024-12-31T15:30:00"
+    },
+    {
+      "id": 47,
+      "name": "Maga",
+      "stage": "Main Floor",
+      "start": "2024-12-31T16:00:00",
+      "end": "2024-12-31T18:00:00"
+    },
+    {
+      "id": 48,
+      "name": "Maiko",
+      "stage": "Main Floor",
+      "start": "2024-12-31T18:00:00",
+      "end": "2024-12-31T20:00:00"
+    },
+    {
+      "id": 49,
+      "name": "Maramba",
+      "stage": "Main Floor",
+      "start": "2024-12-31T20:00:00",
+      "end": "2024-12-31T22:00:00"
+    },
+    {
+      "id": 50,
+      "name": "Meca",
+      "stage": "Main Floor",
+      "start": "2024-12-31T22:30:00",
+      "end": "2025-01-01T00:30:00"
+    },
+    {
+      "id": 51,
+      "name": "Modus",
+      "stage": "Main Floor",
+      "start": "2025-01-01T00:30:00",
+      "end": "2025-01-01T02:30:00"
+    },
+    {
+      "id": 52,
+      "name": "Motorred",
+      "stage": "Main Floor",
+      "start": "2025-01-01T02:30:00",
+      "end": "2025-01-01T04:30:00"
+    },
+    {
+      "id": 53,
+      "name": "Neelix",
+      "stage": "Main Floor",
+      "start": "2025-01-01T05:00:00",
+      "end": "2025-01-01T07:00:00"
+    },
+    {
+      "id": 54,
+      "name": "Nocks",
+      "stage": "Main Floor",
+      "start": "2025-01-01T07:00:00",
+      "end": "2025-01-01T09:00:00"
+    },
+    {
+      "id": 55,
+      "name": "Paranormal Attack",
+      "stage": "Main Floor",
+      "start": "2025-01-01T09:00:00",
+      "end": "2025-01-01T11:00:00"
+    },
+    {
+      "id": 56,
+      "name": "Petran",
+      "stage": "Main Floor",
+      "start": "2025-01-01T11:30:00",
+      "end": "2025-01-01T13:30:00"
+    },
+    {
+      "id": 57,
+      "name": "Phaxe",
+      "stage": "Main Floor",
+      "start": "2025-01-01T13:30:00",
+      "end": "2025-01-01T15:30:00"
+    },
+    {
+      "id": 58,
+      "name": "Pragmatix",
+      "stage": "Main Floor",
+      "start": "2025-01-01T15:30:00",
+      "end": "2025-01-01T17:30:00"
+    },
+    {
+      "id": 59,
+      "name": "Psynonima",
+      "stage": "Main Floor",
+      "start": "2025-01-01T18:00:00",
+      "end": "2025-01-01T20:00:00"
+    },
+    {
+      "id": 60,
+      "name": "Querox",
+      "stage": "Main Floor",
+      "start": "2025-01-01T20:00:00",
+      "end": "2025-01-01T22:00:00"
+    },
+    {
+      "id": 61,
+      "name": "Riascode",
+      "stage": "Main Floor",
+      "start": "2025-01-01T22:30:00",
+      "end": "2025-01-02T00:30:00"
+    },
+    {
+      "id": 62,
+      "name": "Rica Amaral",
+      "stage": "Main Floor",
+      "start": "2025-01-02T00:30:00",
+      "end": "2025-01-02T02:30:00"
+    },
+    {
+      "id": 63,
+      "name": "Rinkadink",
+      "stage": "Main Floor",
+      "start": "2025-01-02T02:30:00",
+      "end": "2025-01-02T04:30:00"
+    },
+    {
+      "id": 64,
+      "name": "Rising Dust",
+      "stage": "Main Floor",
+      "start": "2025-01-02T05:00:00",
+      "end": "2025-01-02T07:00:00"
+    },
+    {
+      "id": 65,
+      "name": "Rose Ringed",
+      "stage": "Main Floor",
+      "start": "2025-01-02T07:00:00",
+      "end": "2025-01-02T09:00:00"
+    },
+    {
+      "id": 66,
+      "name": "Ruback",
+      "stage": "Main Floor",
+      "start": "2025-01-02T09:00:00",
+      "end": "2025-01-02T11:00:00"
+    },
+    {
+      "id": 67,
+      "name": "Sasi",
+      "stage": "Main Floor",
+      "start": "2025-01-02T11:30:00",
+      "end": "2025-01-02T13:30:00"
+    },
+    {
+      "id": 68,
+      "name": "SHove",
+      "stage": "Main Floor",
+      "start": "2025-01-02T13:30:00",
+      "end": "2025-01-02T15:30:00"
+    },
+    {
+      "id": 69,
+      "name": "Sonic Species",
+      "stage": "Main Floor",
+      "start": "2025-01-02T15:30:00",
+      "end": "2025-01-02T17:30:00"
+    },
+    {
+      "id": 70,
+      "name": "Special M",
+      "stage": "Main Floor",
+      "start": "2025-01-02T18:00:00",
+      "end": "2025-01-02T20:00:00"
+    },
+    {
+      "id": 71,
+      "name": "Spectra Sonics",
+      "stage": "Main Floor",
+      "start": "2025-01-02T20:00:00",
+      "end": "2025-01-02T22:00:00"
+    },
+    {
+      "id": 72,
+      "name": "Sphera",
+      "stage": "Main Floor",
+      "start": "2025-01-02T22:00:00",
+      "end": "2025-01-03T00:00:00"
+    },
+    {
+      "id": 73,
+      "name": "Swarup",
+      "stage": "Main Floor",
+      "start": "2025-01-03T00:30:00",
+      "end": "2025-01-03T02:30:00"
+    },
+    {
+      "id": 74,
+      "name": "Uncharted Territory",
+      "stage": "Main Floor",
+      "start": "2025-01-03T02:30:00",
+      "end": "2025-01-03T04:30:00"
+    },
+    {
+      "id": 75,
+      "name": "Urannia",
+      "stage": "Main Floor",
+      "start": "2025-01-03T04:30:00",
+      "end": "2025-01-03T06:30:00"
+    },
+    {
+      "id": 76,
+      "name": "V. Falabella",
+      "stage": "Main Floor",
+      "start": "2025-01-03T07:00:00",
+      "end": "2025-01-03T09:00:00"
+    },
+    {
+      "id": 77,
+      "name": "Vermont",
+      "stage": "Main Floor",
+      "start": "2025-01-03T09:00:00",
+      "end": "2025-01-03T11:00:00"
+    },
+    {
+      "id": 78,
+      "name": "Vintage Culture",
+      "stage": "Main Floor",
+      "start": "2025-01-03T11:00:00",
+      "end": "2025-01-03T13:00:00"
+    },
+    {
+      "id": 79,
+      "name": "Wrecked Machines",
+      "stage": "Main Floor",
+      "start": "2025-01-03T13:30:00",
+      "end": "2025-01-03T15:30:00"
+    },
+    {
+      "id": 80,
+      "name": "Yamagucci",
+      "stage": "Main Floor",
+      "start": "2025-01-03T15:30:00",
+      "end": "2025-01-03T17:00:00"
+    },
+    {
+      "id": 81,
+      "name": "Abstract Machine",
+      "stage": "303 Stage",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T13:00:00"
+    },
+    {
+      "id": 82,
+      "name": "Absycho",
+      "stage": "303 Stage",
+      "start": "2024-12-27T13:00:00",
+      "end": "2024-12-27T14:30:00"
+    },
+    {
+      "id": 83,
+      "name": "Acid Test Dummy",
+      "stage": "303 Stage",
+      "start": "2024-12-27T14:30:00",
+      "end": "2024-12-27T16:00:00"
+    },
+    {
+      "id": 84,
+      "name": "Adalamoon",
+      "stage": "303 Stage",
+      "start": "2024-12-27T16:00:00",
+      "end": "2024-12-27T17:00:00"
+    },
+    {
+      "id": 85,
+      "name": "Aisha",
+      "stage": "303 Stage",
+      "start": "2024-12-27T17:00:00",
+      "end": "2024-12-27T18:30:00"
+    },
+    {
+      "id": 86,
+      "name": "Alex Alipe",
+      "stage": "303 Stage",
+      "start": "2024-12-27T18:30:00",
+      "end": "2024-12-27T20:00:00"
+    },
+    {
+      "id": 87,
+      "name": "Alien Mind",
+      "stage": "303 Stage",
+      "start": "2024-12-27T20:00:00",
+      "end": "2024-12-27T21:30:00"
+    },
+    {
+      "id": 88,
+      "name": "Antonymous",
+      "stage": "303 Stage",
+      "start": "2024-12-27T21:30:00",
+      "end": "2024-12-27T22:30:00"
+    },
+    {
+      "id": 89,
+      "name": "Arcturo",
+      "stage": "303 Stage",
+      "start": "2024-12-27T22:30:00",
+      "end": "2024-12-28T00:00:00"
+    },
+    {
+      "id": 90,
+      "name": "Atohmic",
+      "stage": "303 Stage",
+      "start": "2024-12-28T00:00:00",
+      "end": "2024-12-28T01:30:00"
+    },
+    {
+      "id": 91,
+      "name": "Aya",
+      "stage": "303 Stage",
+      "start": "2024-12-28T01:30:00",
+      "end": "2024-12-28T02:30:00"
+    },
+    {
+      "id": 92,
+      "name": "Azzura",
+      "stage": "303 Stage",
+      "start": "2024-12-28T02:30:00",
+      "end": "2024-12-28T04:00:00"
+    },
+    {
+      "id": 93,
+      "name": "Blazy vs Phaxe",
+      "stage": "303 Stage",
+      "start": "2024-12-28T04:00:00",
+      "end": "2024-12-28T05:30:00"
+    },
+    {
+      "id": 94,
+      "name": "Capital Monkey",
+      "stage": "303 Stage",
+      "start": "2024-12-28T05:30:00",
+      "end": "2024-12-28T07:00:00"
+    },
+    {
+      "id": 95,
+      "name": "Carbon C",
+      "stage": "303 Stage",
+      "start": "2024-12-28T07:00:00",
+      "end": "2024-12-28T08:00:00"
+    },
+    {
+      "id": 96,
+      "name": "Cirizen",
+      "stage": "303 Stage",
+      "start": "2024-12-28T08:00:00",
+      "end": "2024-12-28T09:30:00"
+    },
+    {
+      "id": 97,
+      "name": "Cromossonic",
+      "stage": "303 Stage",
+      "start": "2024-12-28T09:30:00",
+      "end": "2024-12-28T11:00:00"
+    },
+    {
+      "id": 98,
+      "name": "Dannmage",
+      "stage": "303 Stage",
+      "start": "2024-12-28T11:00:00",
+      "end": "2024-12-28T12:00:00"
+    },
+    {
+      "id": 99,
+      "name": "Dark Chocolat",
+      "stage": "303 Stage",
+      "start": "2024-12-28T12:00:00",
+      "end": "2024-12-28T13:30:00"
+    },
+    {
+      "id": 100,
+      "name": "Deshi",
+      "stage": "303 Stage",
+      "start": "2024-12-28T13:30:00",
+      "end": "2024-12-28T15:00:00"
+    },
+    {
+      "id": 101,
+      "name": "Digital Culture",
+      "stage": "303 Stage",
+      "start": "2024-12-28T15:00:00",
+      "end": "2024-12-28T16:30:00"
+    },
+    {
+      "id": 102,
+      "name": "Dirty Saffi",
+      "stage": "303 Stage",
+      "start": "2024-12-28T16:30:00",
+      "end": "2024-12-28T17:30:00"
+    },
+    {
+      "id": 103,
+      "name": "Diza",
+      "stage": "303 Stage",
+      "start": "2024-12-28T17:30:00",
+      "end": "2024-12-28T19:30:00"
+    },
+    {
+      "id": 104,
+      "name": "D'Psy",
+      "stage": "303 Stage",
+      "start": "2024-12-30T14:00:00",
+      "end": "2024-12-30T14:30:00"
+    },
+    {
+      "id": 105,
+      "name": "Dulio",
+      "stage": "303 Stage",
+      "start": "2024-12-28T20:30:00",
+      "end": "2024-12-28T21:30:00"
+    },
+    {
+      "id": 106,
+      "name": "Eddie Bitar",
+      "stage": "303 Stage",
+      "start": "2024-12-28T21:30:00",
+      "end": "2024-12-28T23:00:00"
+    },
+    {
+      "id": 107,
+      "name": "Ekanta",
+      "stage": "303 Stage",
+      "start": "2024-12-28T23:00:00",
+      "end": "2024-12-29T00:30:00"
+    },
+    {
+      "id": 108,
+      "name": "Eklips",
+      "stage": "303 Stage",
+      "start": "2024-12-29T00:30:00",
+      "end": "2024-12-29T02:00:00"
+    },
+    {
+      "id": 109,
+      "name": "Elemental Energy",
+      "stage": "303 Stage",
+      "start": "2024-12-29T02:00:00",
+      "end": "2024-12-29T03:00:00"
+    },
+    {
+      "id": 110,
+      "name": "Elemental vs Thales Dumbra",
+      "stage": "303 Stage",
+      "start": "2024-12-29T03:00:00",
+      "end": "2024-12-29T04:30:00"
+    },
+    {
+      "id": 111,
+      "name": "Fabio Kuick vs Space Trip",
+      "stage": "303 Stage",
+      "start": "2024-12-29T04:30:00",
+      "end": "2024-12-29T06:00:00"
+    },
+    {
+      "id": 112,
+      "name": "Fada",
+      "stage": "303 Stage",
+      "start": "2024-12-29T06:00:00",
+      "end": "2024-12-29T07:30:00"
+    },
+    {
+      "id": 113,
+      "name": "Fla Almeida",
+      "stage": "303 Stage",
+      "start": "2024-12-29T07:30:00",
+      "end": "2024-12-29T08:30:00"
+    },
+    {
+      "id": 114,
+      "name": "Fractaly Noise",
+      "stage": "303 Stage",
+      "start": "2024-12-29T08:30:00",
+      "end": "2024-12-29T10:00:00"
+    },
+    {
+      "id": 115,
+      "name": "G-RM",
+      "stage": "303 Stage",
+      "start": "2024-12-29T10:00:00",
+      "end": "2024-12-29T11:30:00"
+    },
+    {
+      "id": 116,
+      "name": "Garnet",
+      "stage": "303 Stage",
+      "start": "2024-12-29T11:30:00",
+      "end": "2024-12-29T12:30:00"
+    },
+    {
+      "id": 117,
+      "name": "Genetica",
+      "stage": "303 Stage",
+      "start": "2024-12-29T12:30:00",
+      "end": "2024-12-29T14:00:00"
+    },
+    {
+      "id": 118,
+      "name": "Ghantt",
+      "stage": "303 Stage",
+      "start": "2024-12-29T14:00:00",
+      "end": "2024-12-29T15:30:00"
+    },
+    {
+      "id": 119,
+      "name": "Giaco",
+      "stage": "303 Stage",
+      "start": "2024-12-29T15:30:00",
+      "end": "2024-12-29T17:00:00"
+    },
+    {
+      "id": 120,
+      "name": "GR87 vs Mel Rose",
+      "stage": "303 Stage",
+      "start": "2024-12-29T17:00:00",
+      "end": "2024-12-29T18:00:00"
+    },
+    {
+      "id": 121,
+      "name": "Green Waves",
+      "stage": "303 Stage",
+      "start": "2024-12-29T18:00:00",
+      "end": "2024-12-29T19:30:00"
+    },
+    {
+      "id": 122,
+      "name": "Hadbox",
+      "stage": "303 Stage",
+      "start": "2024-12-29T19:30:00",
+      "end": "2024-12-29T21:00:00"
+    },
+    {
+      "id": 123,
+      "name": "Hakuna",
+      "stage": "303 Stage",
+      "start": "2024-12-29T21:00:00",
+      "end": "2024-12-29T22:00:00"
+    },
+    {
+      "id": 124,
+      "name": "I'm Atha",
+      "stage": "303 Stage",
+      "start": "2024-12-29T22:00:00",
+      "end": "2024-12-29T23:30:00"
+    },
+    {
+      "id": 125,
+      "name": "Indigo",
+      "stage": "303 Stage",
+      "start": "2024-12-29T23:30:00",
+      "end": "2024-12-30T01:00:00"
+    },
+    {
+      "id": 126,
+      "name": "Insomnia",
+      "stage": "303 Stage",
+      "start": "2024-12-30T01:00:00",
+      "end": "2024-12-30T02:30:00"
+    },
+    {
+      "id": 127,
+      "name": "Invader Space",
+      "stage": "303 Stage",
+      "start": "2024-12-30T02:30:00",
+      "end": "2024-12-30T03:30:00"
+    },
+    {
+      "id": 128,
+      "name": "Ish K",
+      "stage": "303 Stage",
+      "start": "2024-12-30T03:30:00",
+      "end": "2024-12-30T05:00:00"
+    },
+    {
+      "id": 129,
+      "name": "Jahnhangá",
+      "stage": "303 Stage",
+      "start": "2024-12-30T05:00:00",
+      "end": "2024-12-30T06:30:00"
+    },
+    {
+      "id": 130,
+      "name": "Janczur",
+      "stage": "303 Stage",
+      "start": "2024-12-30T06:30:00",
+      "end": "2024-12-30T07:30:00"
+    },
+    {
+      "id": 131,
+      "name": "Jheynix",
+      "stage": "303 Stage",
+      "start": "2024-12-30T07:30:00",
+      "end": "2024-12-30T09:00:00"
+    },
+    {
+      "id": 132,
+      "name": "John Axe vs Mentum",
+      "stage": "303 Stage",
+      "start": "2024-12-30T09:00:00",
+      "end": "2024-12-30T10:30:00"
+    },
+    {
+      "id": 133,
+      "name": "Josh",
+      "stage": "303 Stage",
+      "start": "2024-12-30T10:30:00",
+      "end": "2024-12-30T12:00:00"
+    },
+    {
+      "id": 134,
+      "name": "JR Psy",
+      "stage": "303 Stage",
+      "start": "2024-12-30T12:00:00",
+      "end": "2024-12-30T13:00:00"
+    },
+    {
+      "id": 135,
+      "name": "Kafu",
+      "stage": "303 Stage",
+      "start": "2024-12-30T13:00:00",
+      "end": "2024-12-30T14:00:00"
+    },
+    {
+      "id": 136,
+      "name": "Khaline",
+      "stage": "303 Stage",
+      "start": "2024-12-30T14:30:00",
+      "end": "2024-12-30T16:00:00"
+    },
+    {
+      "id": 137,
+      "name": "Karielle",
+      "stage": "303 Stage",
+      "start": "2024-12-30T16:00:00",
+      "end": "2024-12-30T17:00:00"
+    },
+    {
+      "id": 138,
+      "name": "Keertana",
+      "stage": "303 Stage",
+      "start": "2024-12-30T17:00:00",
+      "end": "2024-12-30T18:30:00"
+    },
+    {
+      "id": 139,
+      "name": "Kliment",
+      "stage": "303 Stage",
+      "start": "2024-12-30T18:30:00",
+      "end": "2024-12-30T20:00:00"
+    },
+    {
+      "id": 140,
+      "name": "Labirinto",
+      "stage": "303 Stage",
+      "start": "2024-12-30T20:00:00",
+      "end": "2024-12-30T21:30:00"
+    },
+    {
+      "id": 141,
+      "name": "Leohm",
+      "stage": "303 Stage",
+      "start": "2024-12-30T21:30:00",
+      "end": "2024-12-30T22:30:00"
+    },
+    {
+      "id": 142,
+      "name": "Limbu",
+      "stage": "303 Stage",
+      "start": "2024-12-30T22:30:00",
+      "end": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 143,
+      "name": "Lincoln",
+      "stage": "303 Stage",
+      "start": "2024-12-31T00:00:00",
+      "end": "2024-12-31T01:30:00"
+    },
+    {
+      "id": 144,
+      "name": "Lo-Freak",
+      "stage": "303 Stage",
+      "start": "2024-12-31T01:30:00",
+      "end": "2024-12-31T03:00:00"
+    },
+    {
+      "id": 145,
+      "name": "Losen",
+      "stage": "303 Stage",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T04:00:00"
+    },
+    {
+      "id": 146,
+      "name": "Magma Ohm",
+      "stage": "303 Stage",
+      "start": "2024-12-31T04:00:00",
+      "end": "2024-12-31T05:30:00"
+    },
+    {
+      "id": 147,
+      "name": "Manaus",
+      "stage": "303 Stage",
+      "start": "2024-12-31T05:30:00",
+      "end": "2024-12-31T07:00:00"
+    },
+    {
+      "id": 148,
+      "name": "Marduk",
+      "stage": "303 Stage",
+      "start": "2024-12-31T07:00:00",
+      "end": "2024-12-31T08:00:00"
+    },
+    {
+      "id": 149,
+      "name": "Maryhonda",
+      "stage": "303 Stage",
+      "start": "2024-12-31T08:00:00",
+      "end": "2024-12-31T09:30:00"
+    },
+    {
+      "id": 150,
+      "name": "Max Grillo",
+      "stage": "303 Stage",
+      "start": "2024-12-31T09:30:00",
+      "end": "2024-12-31T11:00:00"
+    },
+    {
+      "id": 151,
+      "name": "Minimal Criminal",
+      "stage": "303 Stage",
+      "start": "2024-12-31T11:00:00",
+      "end": "2024-12-31T12:30:00"
+    },
+    {
+      "id": 152,
+      "name": "Miss Jade",
+      "stage": "303 Stage",
+      "start": "2024-12-31T12:30:00",
+      "end": "2024-12-31T13:30:00"
+    },
+    {
+      "id": 153,
+      "name": "Moksha",
+      "stage": "303 Stage",
+      "start": "2024-12-31T13:30:00",
+      "end": "2024-12-31T15:00:00"
+    },
+    {
+      "id": 154,
+      "name": "Montech",
+      "stage": "303 Stage",
+      "start": "2024-12-31T15:00:00",
+      "end": "2024-12-31T16:30:00"
+    },
+    {
+      "id": 155,
+      "name": "Movment",
+      "stage": "303 Stage",
+      "start": "2024-12-31T16:30:00",
+      "end": "2024-12-31T17:30:00"
+    },
+    {
+      "id": 156,
+      "name": "Murray",
+      "stage": "303 Stage",
+      "start": "2024-12-31T17:30:00",
+      "end": "2024-12-31T19:00:00"
+    },
+    {
+      "id": 157,
+      "name": "Natascha",
+      "stage": "303 Stage",
+      "start": "2024-12-31T19:00:00",
+      "end": "2024-12-31T20:30:00"
+    },
+    {
+      "id": 158,
+      "name": "Neelix (retro set)",
+      "stage": "303 Stage",
+      "start": "2024-12-31T20:30:00",
+      "end": "2024-12-31T22:00:00"
+    },
+    {
+      "id": 159,
+      "name": "Nevermind",
+      "stage": "303 Stage",
+      "start": "2024-12-31T22:00:00",
+      "end": "2024-12-31T23:00:00"
+    },
+    {
+      "id": 160,
+      "name": "Nico Culotta",
+      "stage": "303 Stage",
+      "start": "2024-12-31T23:00:00",
+      "end": "2025-01-01T00:30:00"
+    },
+    {
+      "id": 161,
+      "name": "Nobot",
+      "stage": "303 Stage",
+      "start": "2025-01-01T00:30:00",
+      "end": "2025-01-01T02:00:00"
+    },
+    {
+      "id": 162,
+      "name": "Nuky",
+      "stage": "303 Stage",
+      "start": "2025-01-01T02:00:00",
+      "end": "2025-01-01T03:00:00"
+    },
+    {
+      "id": 163,
+      "name": "Once Upon a Time",
+      "stage": "303 Stage",
+      "start": "2025-01-01T03:00:00",
+      "end": "2025-01-01T04:30:00"
+    },
+    {
+      "id": 164,
+      "name": "Perception",
+      "stage": "303 Stage",
+      "start": "2025-01-01T04:30:00",
+      "end": "2025-01-01T06:00:00"
+    },
+    {
+      "id": 165,
+      "name": "Phantt",
+      "stage": "303 Stage",
+      "start": "2025-01-01T06:00:00",
+      "end": "2025-01-01T07:30:00"
+    },
+    {
+      "id": 166,
+      "name": "Plastik",
+      "stage": "303 Stage",
+      "start": "2025-01-01T07:30:00",
+      "end": "2025-01-01T08:30:00"
+    },
+    {
+      "id": 167,
+      "name": "Psique",
+      "stage": "303 Stage",
+      "start": "2025-01-01T08:30:00",
+      "end": "2025-01-01T10:00:00"
+    },
+    {
+      "id": 168,
+      "name": "P5ywhy",
+      "stage": "303 Stage",
+      "start": "2025-01-01T10:00:00",
+      "end": "2025-01-01T11:30:00"
+    },
+    {
+      "id": 169,
+      "name": "Punk Rocket",
+      "stage": "303 Stage",
+      "start": "2025-01-01T11:30:00",
+      "end": "2025-01-01T12:30:00"
+    },
+    {
+      "id": 170,
+      "name": "Quadraphonic",
+      "stage": "303 Stage",
+      "start": "2025-01-01T12:30:00",
+      "end": "2025-01-01T14:00:00"
+    },
+    {
+      "id": 171,
+      "name": "Remp",
+      "stage": "303 Stage",
+      "start": "2025-01-01T14:00:00",
+      "end": "2025-01-01T15:30:00"
+    },
+    {
+      "id": 172,
+      "name": "Re-Surge",
+      "stage": "303 Stage",
+      "start": "2025-01-01T15:30:00",
+      "end": "2025-01-01T17:00:00"
+    },
+    {
+      "id": 173,
+      "name": "Rosa Ventura",
+      "stage": "303 Stage",
+      "start": "2025-01-01T17:00:00",
+      "end": "2025-01-01T18:00:00"
+    },
+    {
+      "id": 174,
+      "name": "Samed",
+      "stage": "303 Stage",
+      "start": "2025-01-01T18:00:00",
+      "end": "2025-01-01T19:30:00"
+    },
+    {
+      "id": 175,
+      "name": "Santosha",
+      "stage": "303 Stage",
+      "start": "2025-01-01T19:30:00",
+      "end": "2025-01-01T21:00:00"
+    },
+    {
+      "id": 176,
+      "name": "Sevenfold",
+      "stage": "303 Stage",
+      "start": "2025-01-01T21:00:00",
+      "end": "2025-01-01T22:30:00"
+    },
+    {
+      "id": 177,
+      "name": "Sighter",
+      "stage": "303 Stage",
+      "start": "2025-01-01T22:30:00",
+      "end": "2025-01-01T23:30:00"
+    },
+    {
+      "id": 178,
+      "name": "Singularity",
+      "stage": "303 Stage",
+      "start": "2025-01-01T23:30:00",
+      "end": "2025-01-02T01:00:00"
+    },
+    {
+      "id": 179,
+      "name": "Smokeship",
+      "stage": "303 Stage",
+      "start": "2025-01-02T01:00:00",
+      "end": "2025-01-02T02:30:00"
+    },
+    {
+      "id": 180,
+      "name": "Sonic Massala",
+      "stage": "303 Stage",
+      "start": "2025-01-02T02:30:00",
+      "end": "2025-01-02T03:30:00"
+    },
+    {
+      "id": 181,
+      "name": "Sonoric Illusion",
+      "stage": "303 Stage",
+      "start": "2025-01-02T03:30:00",
+      "end": "2025-01-02T05:00:00"
+    },
+    {
+      "id": 182,
+      "name": "Soul Shine",
+      "stage": "303 Stage",
+      "start": "2025-01-02T05:00:00",
+      "end": "2025-01-02T06:30:00"
+    },
+    {
+      "id": 183,
+      "name": "Spectree",
+      "stage": "303 Stage",
+      "start": "2025-01-02T06:30:00",
+      "end": "2025-01-02T08:00:00"
+    },
+    {
+      "id": 184,
+      "name": "Surke",
+      "stage": "303 Stage",
+      "start": "2025-01-02T08:00:00",
+      "end": "2025-01-02T09:00:00"
+    },
+    {
+      "id": 185,
+      "name": "Sutemi",
+      "stage": "303 Stage",
+      "start": "2025-01-02T09:00:00",
+      "end": "2025-01-02T10:30:00"
+    },
+    {
+      "id": 186,
+      "name": "Swamp",
+      "stage": "303 Stage",
+      "start": "2025-01-02T10:30:00",
+      "end": "2025-01-02T12:00:00"
+    },
+    {
+      "id": 187,
+      "name": "Swarup",
+      "stage": "303 Stage",
+      "start": "2025-01-02T12:00:00",
+      "end": "2025-01-02T13:00:00"
+    },
+    {
+      "id": 188,
+      "name": "Synthatic",
+      "stage": "303 Stage",
+      "start": "2025-01-02T13:00:00",
+      "end": "2025-01-02T14:30:00"
+    },
+    {
+      "id": 189,
+      "name": "Thallom",
+      "stage": "303 Stage",
+      "start": "2025-01-02T14:30:00",
+      "end": "2025-01-02T16:00:00"
+    },
+    {
+      "id": 190,
+      "name": "The First Stone",
+      "stage": "303 Stage",
+      "start": "2025-01-02T16:00:00",
+      "end": "2025-01-02T17:30:00"
+    },
+    {
+      "id": 191,
+      "name": "Thiago Ferro",
+      "stage": "303 Stage",
+      "start": "2025-01-02T17:30:00",
+      "end": "2025-01-02T18:30:00"
+    },
+    {
+      "id": 192,
+      "name": "Tijah",
+      "stage": "303 Stage",
+      "start": "2025-01-02T18:30:00",
+      "end": "2025-01-02T20:00:00"
+    },
+    {
+      "id": 193,
+      "name": "Timmi Sun",
+      "stage": "303 Stage",
+      "start": "2025-01-02T20:00:00",
+      "end": "2025-01-02T21:30:00"
+    },
+    {
+      "id": 194,
+      "name": "Toto",
+      "stage": "303 Stage",
+      "start": "2025-01-02T21:30:00",
+      "end": "2025-01-02T22:30:00"
+    },
+    {
+      "id": 195,
+      "name": "Traxon",
+      "stage": "303 Stage",
+      "start": "2025-01-02T22:30:00",
+      "end": "2025-01-03T00:00:00"
+    },
+    {
+      "id": 196,
+      "name": "Trindade",
+      "stage": "303 Stage",
+      "start": "2025-01-03T00:00:00",
+      "end": "2025-01-03T01:30:00"
+    },
+    {
+      "id": 197,
+      "name": "Tromo",
+      "stage": "303 Stage",
+      "start": "2025-01-03T01:30:00",
+      "end": "2025-01-03T03:00:00"
+    },
+    {
+      "id": 198,
+      "name": "Txu",
+      "stage": "303 Stage",
+      "start": "2025-01-03T03:00:00",
+      "end": "2025-01-03T04:00:00"
+    },
+    {
+      "id": 199,
+      "name": "Uka Uka",
+      "stage": "303 Stage",
+      "start": "2025-01-03T04:00:00",
+      "end": "2025-01-03T05:30:00"
+    },
+    {
+      "id": 200,
+      "name": "Venus",
+      "stage": "303 Stage",
+      "start": "2025-01-03T05:30:00",
+      "end": "2025-01-03T07:00:00"
+    },
+    {
+      "id": 201,
+      "name": "Visor Wars",
+      "stage": "303 Stage",
+      "start": "2025-01-03T07:00:00",
+      "end": "2025-01-03T08:00:00"
+    },
+    {
+      "id": 202,
+      "name": "Volcano on Mars",
+      "stage": "303 Stage",
+      "start": "2025-01-03T08:00:00",
+      "end": "2025-01-03T09:30:00"
+    },
+    {
+      "id": 203,
+      "name": "Wanted",
+      "stage": "303 Stage",
+      "start": "2025-01-03T09:30:00",
+      "end": "2025-01-03T11:00:00"
+    },
+    {
+      "id": 204,
+      "name": "Weberly",
+      "stage": "303 Stage",
+      "start": "2025-01-03T11:00:00",
+      "end": "2025-01-03T12:30:00"
+    },
+    {
+      "id": 205,
+      "name": "Xamã",
+      "stage": "303 Stage",
+      "start": "2025-01-03T12:30:00",
+      "end": "2025-01-03T13:30:00"
+    },
+    {
+      "id": 206,
+      "name": "Zahar",
+      "stage": "303 Stage",
+      "start": "2025-01-03T13:30:00",
+      "end": "2025-01-03T15:00:00"
+    },
+    {
+      "id": 207,
+      "name": "Zanella",
+      "stage": "303 Stage",
+      "start": "2025-01-03T15:00:00",
+      "end": "2025-01-03T16:30:00"
+    },
+    {
+      "id": 208,
+      "name": "Zyz",
+      "stage": "303 Stage",
+      "start": "2025-01-03T16:30:00",
+      "end": "2025-01-03T18:00:00"
+    },
+    {
+      "id": 209,
+      "name": "Acid Asian",
+      "stage": "Utopia",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T14:00:00"
+    },
+    {
+      "id": 210,
+      "name": "Afterclapp",
+      "stage": "Utopia",
+      "start": "2024-12-27T14:00:00",
+      "end": "2024-12-27T16:00:00"
+    },
+    {
+      "id": 211,
+      "name": "All Of Me",
+      "stage": "Utopia",
+      "start": "2024-12-27T16:00:00",
+      "end": "2024-12-27T18:00:00"
+    },
+    {
+      "id": 212,
+      "name": "Amar Mansoor",
+      "stage": "Utopia",
+      "start": "2024-12-27T18:30:00",
+      "end": "2024-12-27T20:30:00"
+    },
+    {
+      "id": 213,
+      "name": "Ancestrall",
+      "stage": "Utopia",
+      "start": "2024-12-27T20:30:00",
+      "end": "2024-12-27T22:30:00"
+    },
+    {
+      "id": 214,
+      "name": "Anny B",
+      "stage": "Utopia",
+      "start": "2024-12-27T23:00:00",
+      "end": "2024-12-28T01:00:00"
+    },
+    {
+      "id": 215,
+      "name": "Anny Coss",
+      "stage": "Utopia",
+      "start": "2024-12-28T01:00:00",
+      "end": "2024-12-28T03:00:00"
+    },
+    {
+      "id": 216,
+      "name": "Appool Morr",
+      "stage": "Utopia",
+      "start": "2024-12-28T03:30:00",
+      "end": "2024-12-28T05:30:00"
+    },
+    {
+      "id": 217,
+      "name": "Appo",
+      "stage": "Utopia",
+      "start": "2024-12-28T05:30:00",
+      "end": "2024-12-28T07:30:00"
+    },
+    {
+      "id": 218,
+      "name": "Bauretz",
+      "stage": "Utopia",
+      "start": "2024-12-28T08:00:00",
+      "end": "2024-12-28T10:00:00"
+    },
+    {
+      "id": 219,
+      "name": "Bhaskar",
+      "stage": "Utopia",
+      "start": "2024-12-28T10:00:00",
+      "end": "2024-12-28T12:00:00"
+    },
+    {
+      "id": 220,
+      "name": "Brisotti",
+      "stage": "Utopia",
+      "start": "2024-12-28T12:30:00",
+      "end": "2024-12-28T14:30:00"
+    },
+    {
+      "id": 221,
+      "name": "Brooks BR",
+      "stage": "Utopia",
+      "start": "2024-12-28T14:30:00",
+      "end": "2024-12-28T16:30:00"
+    },
+    {
+      "id": 222,
+      "name": "Danni",
+      "stage": "Utopia",
+      "start": "2024-12-28T17:00:00",
+      "end": "2024-12-28T19:00:00"
+    },
+    {
+      "id": 223,
+      "name": "Digbaker",
+      "stage": "Utopia",
+      "start": "2024-12-28T19:00:00",
+      "end": "2024-12-28T21:00:00"
+    },
+    {
+      "id": 224,
+      "name": "DJ Jasmin",
+      "stage": "Utopia",
+      "start": "2024-12-28T21:00:00",
+      "end": "2024-12-28T23:00:00"
+    },
+    {
+      "id": 225,
+      "name": "Dmitri",
+      "stage": "Utopia",
+      "start": "2024-12-28T23:30:00",
+      "end": "2024-12-29T01:30:00"
+    },
+    {
+      "id": 226,
+      "name": "Dor Danino",
+      "stage": "Utopia",
+      "start": "2024-12-29T01:30:00",
+      "end": "2024-12-29T03:30:00"
+    },
+    {
+      "id": 227,
+      "name": "E.D.E.R",
+      "stage": "Utopia",
+      "start": "2024-12-29T04:00:00",
+      "end": "2024-12-29T06:00:00"
+    },
+    {
+      "id": 228,
+      "name": "Fabian B",
+      "stage": "Utopia",
+      "start": "2024-12-29T06:00:00",
+      "end": "2024-12-29T08:00:00"
+    },
+    {
+      "id": 229,
+      "name": "Felipe Poeta",
+      "stage": "Utopia",
+      "start": "2024-12-29T08:30:00",
+      "end": "2024-12-29T10:30:00"
+    },
+    {
+      "id": 230,
+      "name": "Floww",
+      "stage": "Utopia",
+      "start": "2024-12-29T10:30:00",
+      "end": "2024-12-29T12:30:00"
+    },
+    {
+      "id": 231,
+      "name": "From House to Disco",
+      "stage": "Utopia",
+      "start": "2024-12-29T13:00:00",
+      "end": "2024-12-29T15:00:00"
+    },
+    {
+      "id": 232,
+      "name": "Gai4",
+      "stage": "Utopia",
+      "start": "2024-12-29T15:00:00",
+      "end": "2024-12-29T17:00:00"
+    },
+    {
+      "id": 233,
+      "name": "Gigios",
+      "stage": "Utopia",
+      "start": "2024-12-29T17:30:00",
+      "end": "2024-12-29T19:30:00"
+    },
+    {
+      "id": 234,
+      "name": "Greggio",
+      "stage": "Utopia",
+      "start": "2024-12-29T19:30:00",
+      "end": "2024-12-29T21:30:00"
+    },
+    {
+      "id": 235,
+      "name": "Guilherme Vac",
+      "stage": "Utopia",
+      "start": "2024-12-29T22:00:00",
+      "end": "2024-12-30T00:00:00"
+    },
+    {
+      "id": 236,
+      "name": "Iaell",
+      "stage": "Utopia",
+      "start": "2024-12-30T00:00:00",
+      "end": "2024-12-30T02:00:00"
+    },
+    {
+      "id": 237,
+      "name": "Irineu Lac",
+      "stage": "Utopia",
+      "start": "2024-12-30T02:00:00",
+      "end": "2024-12-30T04:00:00"
+    },
+    {
+      "id": 238,
+      "name": "J Maia",
+      "stage": "Utopia",
+      "start": "2024-12-30T04:30:00",
+      "end": "2024-12-30T06:30:00"
+    },
+    {
+      "id": 239,
+      "name": "James de Torres",
+      "stage": "Utopia",
+      "start": "2024-12-30T06:30:00",
+      "end": "2024-12-30T08:30:00"
+    },
+    {
+      "id": 240,
+      "name": "Jior",
+      "stage": "Utopia",
+      "start": "2024-12-30T09:00:00",
+      "end": "2024-12-30T11:00:00"
+    },
+    {
+      "id": 241,
+      "name": "Jjsojj",
+      "stage": "Utopia",
+      "start": "2024-12-30T11:00:00",
+      "end": "2024-12-30T13:00:00"
+    },
+    {
+      "id": 242,
+      "name": "João Nogueira",
+      "stage": "Utopia",
+      "start": "2024-12-30T13:30:00",
+      "end": "2024-12-30T15:30:00"
+    },
+    {
+      "id": 243,
+      "name": "JP Castro",
+      "stage": "Utopia",
+      "start": "2024-12-30T15:30:00",
+      "end": "2024-12-30T17:30:00"
+    },
+    {
+      "id": 244,
+      "name": "Juju Bitaju",
+      "stage": "Utopia",
+      "start": "2024-12-30T18:00:00",
+      "end": "2024-12-30T20:00:00"
+    },
+    {
+      "id": 245,
+      "name": "Kobot",
+      "stage": "Utopia",
+      "start": "2024-12-30T20:00:00",
+      "end": "2024-12-30T22:00:00"
+    },
+    {
+      "id": 246,
+      "name": "Kojak",
+      "stage": "Utopia",
+      "start": "2024-12-30T22:30:00",
+      "end": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 247,
+      "name": "Lacca",
+      "stage": "Utopia",
+      "start": "2024-12-31T00:30:00",
+      "end": "2024-12-31T02:30:00"
+    },
+    {
+      "id": 248,
+      "name": "Lee-o",
+      "stage": "Utopia",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T05:00:00"
+    },
+    {
+      "id": 249,
+      "name": "Leo Janeiro",
+      "stage": "Utopia",
+      "start": "2024-12-31T05:00:00",
+      "end": "2024-12-31T07:00:00"
+    },
+    {
+      "id": 250,
+      "name": "Loudstage",
+      "stage": "Utopia",
+      "start": "2024-12-31T07:00:00",
+      "end": "2024-12-31T09:00:00"
+    },
+    {
+      "id": 251,
+      "name": "Luca Buzanelli",
+      "stage": "Utopia",
+      "start": "2024-12-31T09:30:00",
+      "end": "2024-12-31T11:30:00"
+    },
+    {
+      "id": 252,
+      "name": "Maga",
+      "stage": "Utopia",
+      "start": "2024-12-31T11:30:00",
+      "end": "2024-12-31T13:30:00"
+    },
+    {
+      "id": 253,
+      "name": "Mahu",
+      "stage": "Utopia",
+      "start": "2024-12-31T14:00:00",
+      "end": "2024-12-31T16:00:00"
+    },
+    {
+      "id": 254,
+      "name": "Marian Flow",
+      "stage": "Utopia",
+      "start": "2024-12-31T16:00:00",
+      "end": "2024-12-31T18:00:00"
+    },
+    {
+      "id": 255,
+      "name": "Mary Honda",
+      "stage": "Utopia",
+      "start": "2024-12-31T18:30:00",
+      "end": "2024-12-31T20:30:00"
+    },
+    {
+      "id": 256,
+      "name": "Mari Ventura",
+      "stage": "Utopia",
+      "start": "2024-12-31T20:30:00",
+      "end": "2024-12-31T22:30:00"
+    },
+    {
+      "id": 257,
+      "name": "Marduk",
+      "stage": "Utopia",
+      "start": "2024-12-31T00:00:00",
+      "end": "2024-12-31T00:30:00"
+    },
+    {
+      "id": 258,
+      "name": "Mavie",
+      "stage": "Utopia",
+      "start": "2025-01-01T01:00:00",
+      "end": "2025-01-01T03:00:00"
+    },
+    {
+      "id": 259,
+      "name": "Mira",
+      "stage": "Utopia",
+      "start": "2025-01-01T03:30:00",
+      "end": "2025-01-01T05:30:00"
+    },
+    {
+      "id": 260,
+      "name": "Neo Classic",
+      "stage": "Utopia",
+      "start": "2025-01-01T05:30:00",
+      "end": "2025-01-01T07:30:00"
+    },
+    {
+      "id": 261,
+      "name": "Nery",
+      "stage": "Utopia",
+      "start": "2025-01-01T08:00:00",
+      "end": "2025-01-01T10:00:00"
+    },
+    {
+      "id": 262,
+      "name": "Newthebeat",
+      "stage": "Utopia",
+      "start": "2025-01-01T10:00:00",
+      "end": "2025-01-01T12:00:00"
+    },
+    {
+      "id": 263,
+      "name": "Nihanna",
+      "stage": "Utopia",
+      "start": "2025-01-01T12:00:00",
+      "end": "2025-01-01T14:00:00"
+    },
+    {
+      "id": 264,
+      "name": "Ortus",
+      "stage": "Utopia",
+      "start": "2025-01-01T14:30:00",
+      "end": "2025-01-01T16:30:00"
+    },
+    {
+      "id": 265,
+      "name": "Os Girassom",
+      "stage": "Utopia",
+      "start": "2025-01-01T16:30:00",
+      "end": "2025-01-01T18:30:00"
+    },
+    {
+      "id": 266,
+      "name": "Patricia Andrade",
+      "stage": "Utopia",
+      "start": "2025-01-01T19:00:00",
+      "end": "2025-01-01T21:00:00"
+    },
+    {
+      "id": 267,
+      "name": "Pedro Pedro",
+      "stage": "Utopia",
+      "start": "2025-01-01T21:00:00",
+      "end": "2025-01-01T23:00:00"
+    },
+    {
+      "id": 268,
+      "name": "Phelipe Carvalho",
+      "stage": "Utopia",
+      "start": "2025-01-01T23:30:00",
+      "end": "2025-01-02T01:30:00"
+    },
+    {
+      "id": 269,
+      "name": "Rara DJs",
+      "stage": "Utopia",
+      "start": "2025-01-02T01:30:00",
+      "end": "2025-01-02T03:30:00"
+    },
+    {
+      "id": 270,
+      "name": "Rass",
+      "stage": "Utopia",
+      "start": "2025-01-02T04:00:00",
+      "end": "2025-01-02T06:00:00"
+    },
+    {
+      "id": 271,
+      "name": "Red Fox",
+      "stage": "Utopia",
+      "start": "2025-01-02T06:00:00",
+      "end": "2025-01-02T08:00:00"
+    },
+    {
+      "id": 272,
+      "name": "Roan",
+      "stage": "Utopia",
+      "start": "2025-01-02T08:30:00",
+      "end": "2025-01-02T10:30:00"
+    },
+    {
+      "id": 273,
+      "name": "Ronaldo Llopes",
+      "stage": "Utopia",
+      "start": "2025-01-02T10:30:00",
+      "end": "2025-01-02T12:30:00"
+    },
+    {
+      "id": 274,
+      "name": "Rowin",
+      "stage": "Utopia",
+      "start": "2025-01-02T13:00:00",
+      "end": "2025-01-02T15:00:00"
+    },
+    {
+      "id": 275,
+      "name": "Sarah B",
+      "stage": "Utopia",
+      "start": "2025-01-02T15:00:00",
+      "end": "2025-01-02T17:00:00"
+    },
+    {
+      "id": 276,
+      "name": "Scar",
+      "stage": "Utopia",
+      "start": "2025-01-02T17:00:00",
+      "end": "2025-01-02T19:00:00"
+    },
+    {
+      "id": 277,
+      "name": "Soul Ares",
+      "stage": "Utopia",
+      "start": "2025-01-02T19:30:00",
+      "end": "2025-01-02T21:30:00"
+    },
+    {
+      "id": 278,
+      "name": "Sterium",
+      "stage": "Utopia",
+      "start": "2025-01-02T21:30:00",
+      "end": "2025-01-02T23:30:00"
+    },
+    {
+      "id": 279,
+      "name": "Supololo",
+      "stage": "Utopia",
+      "start": "2025-01-03T00:00:00",
+      "end": "2025-01-03T02:00:00"
+    },
+    {
+      "id": 280,
+      "name": "Tariq",
+      "stage": "Utopia",
+      "start": "2025-01-03T02:00:00",
+      "end": "2025-01-03T04:00:00"
+    },
+    {
+      "id": 281,
+      "name": "Technocratia",
+      "stage": "Utopia",
+      "start": "2025-01-03T04:30:00",
+      "end": "2025-01-03T06:30:00"
+    },
+    {
+      "id": 282,
+      "name": "Veronica Kirkovics",
+      "stage": "Utopia",
+      "start": "2025-01-03T06:30:00",
+      "end": "2025-01-03T08:30:00"
+    },
+    {
+      "id": 283,
+      "name": "Woltexx",
+      "stage": "Utopia",
+      "start": "2025-01-03T09:00:00",
+      "end": "2025-01-03T11:00:00"
+    },
+    {
+      "id": 284,
+      "name": "Yamagucci",
+      "stage": "Utopia",
+      "start": "2025-01-03T11:00:00",
+      "end": "2025-01-03T13:00:00"
+    },
+    {
+      "id": 285,
+      "name": "Zanardi",
+      "stage": "Utopia",
+      "start": "2025-01-03T13:30:00",
+      "end": "2025-01-03T15:30:00"
+    },
+    {
+      "id": 286,
+      "name": "Zip N Lock",
+      "stage": "Utopia",
+      "start": "2025-01-03T15:30:00",
+      "end": "2025-01-03T17:00:00"
+    },
+    {
+      "id": 287,
+      "name": "Adnan Sharif",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T14:00:00"
+    },
+    {
+      "id": 288,
+      "name": "Adria",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-27T19:00:00",
+      "end": "2024-12-27T21:00:00"
+    },
+    {
+      "id": 289,
+      "name": "Anderson Noise",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-28T02:30:00",
+      "end": "2024-12-28T04:30:00"
+    },
+    {
+      "id": 290,
+      "name": "Baap",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-28T09:30:00",
+      "end": "2024-12-28T11:30:00"
+    },
+    {
+      "id": 291,
+      "name": "Band&dos",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-28T17:00:00",
+      "end": "2024-12-28T19:00:00"
+    },
+    {
+      "id": 292,
+      "name": "Copini",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-29T00:00:00",
+      "end": "2024-12-29T02:00:00"
+    },
+    {
+      "id": 293,
+      "name": "Doksu",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-29T07:30:00",
+      "end": "2024-12-29T09:30:00"
+    },
+    {
+      "id": 294,
+      "name": "Gabe",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-29T14:30:00",
+      "end": "2024-12-29T16:30:00"
+    },
+    {
+      "id": 295,
+      "name": "Gabriel Brasil",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-29T22:00:00",
+      "end": "2024-12-30T00:00:00"
+    },
+    {
+      "id": 296,
+      "name": "Gartzzea",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-30T05:00:00",
+      "end": "2024-12-30T07:00:00"
+    },
+    {
+      "id": 297,
+      "name": "Gui Boratto",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-30T12:30:00",
+      "end": "2024-12-30T14:30:00"
+    },
+    {
+      "id": 298,
+      "name": "Joyce Muniz",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-30T19:30:00",
+      "end": "2024-12-30T21:30:00"
+    },
+    {
+      "id": 299,
+      "name": "Junior C",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T05:00:00"
+    },
+    {
+      "id": 300,
+      "name": "Leo Diniz",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-31T10:00:00",
+      "end": "2024-12-31T12:00:00"
+    },
+    {
+      "id": 301,
+      "name": "Lucian Aka Fractall",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2024-12-31T17:30:00",
+      "end": "2024-12-31T19:30:00"
+    },
+    {
+      "id": 302,
+      "name": "Malive",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-01T00:30:00",
+      "end": "2025-01-01T02:30:00"
+    },
+    {
+      "id": 303,
+      "name": "Melgazzo",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-01T08:00:00",
+      "end": "2025-01-01T10:00:00"
+    },
+    {
+      "id": 304,
+      "name": "Mojjo",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-01T15:00:00",
+      "end": "2025-01-01T17:00:00"
+    },
+    {
+      "id": 305,
+      "name": "Neco",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-01T22:30:00",
+      "end": "2025-01-02T00:30:00"
+    },
+    {
+      "id": 306,
+      "name": "Ratier",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-02T05:30:00",
+      "end": "2025-01-02T07:30:00"
+    },
+    {
+      "id": 307,
+      "name": "Redfern",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-02T13:00:00",
+      "end": "2025-01-02T15:00:00"
+    },
+    {
+      "id": 308,
+      "name": "Sadra",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-02T20:00:00",
+      "end": "2025-01-02T22:00:00"
+    },
+    {
+      "id": 309,
+      "name": "Swarup",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-03T03:30:00",
+      "end": "2025-01-03T05:30:00"
+    },
+    {
+      "id": 310,
+      "name": "Vinter",
+      "stage": "Surreal apresenta Art Car Ritual",
+      "start": "2025-01-03T10:30:00",
+      "end": "2025-01-03T12:00:00"
+    },
+    {
+      "id": 311,
+      "name": "Academia da Berlinda",
+      "stage": "Palco Paralello",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T14:00:00"
+    },
+    {
+      "id": 312,
+      "name": "Augusta Barna",
+      "stage": "Palco Paralello",
+      "start": "2024-12-27T21:30:00",
+      "end": "2024-12-27T23:30:00"
+    },
+    {
+      "id": 313,
+      "name": "Barromeo",
+      "stage": "Palco Paralello",
+      "start": "2024-12-28T07:00:00",
+      "end": "2024-12-28T09:00:00"
+    },
+    {
+      "id": 314,
+      "name": "Beatdomk",
+      "stage": "Palco Paralello",
+      "start": "2024-12-28T17:00:00",
+      "end": "2024-12-28T19:00:00"
+    },
+    {
+      "id": 315,
+      "name": "Cidade Verde Sounds",
+      "stage": "Palco Paralello",
+      "start": "2024-12-29T02:30:00",
+      "end": "2024-12-29T04:30:00"
+    },
+    {
+      "id": 316,
+      "name": "Comando 73",
+      "stage": "Palco Paralello",
+      "start": "2024-12-29T12:00:00",
+      "end": "2024-12-29T14:00:00"
+    },
+    {
+      "id": 317,
+      "name": "Dada Yute",
+      "stage": "Palco Paralello",
+      "start": "2024-12-29T22:00:00",
+      "end": "2024-12-30T00:00:00"
+    },
+    {
+      "id": 318,
+      "name": "Daniel Profeta",
+      "stage": "Palco Paralello",
+      "start": "2024-12-30T07:30:00",
+      "end": "2024-12-30T09:30:00"
+    },
+    {
+      "id": 319,
+      "name": "Duda Brack",
+      "stage": "Palco Paralello",
+      "start": "2024-12-30T17:00:00",
+      "end": "2024-12-30T19:00:00"
+    },
+    {
+      "id": 320,
+      "name": "Experimental Dub",
+      "stage": "Palco Paralello",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T05:00:00"
+    },
+    {
+      "id": 321,
+      "name": "FBC",
+      "stage": "Palco Paralello",
+      "start": "2024-12-31T12:30:00",
+      "end": "2024-12-31T14:30:00"
+    },
+    {
+      "id": 322,
+      "name": "Forró Red Light",
+      "stage": "Palco Paralello",
+      "start": "2024-12-31T22:00:00",
+      "end": "2025-01-01T00:00:00"
+    },
+    {
+      "id": 323,
+      "name": "Garius",
+      "stage": "Palco Paralello",
+      "start": "2025-01-01T08:00:00",
+      "end": "2025-01-01T10:00:00"
+    },
+    {
+      "id": 324,
+      "name": "Helio Bentes",
+      "stage": "Palco Paralello",
+      "start": "2025-01-01T17:30:00",
+      "end": "2025-01-01T19:30:00"
+    },
+    {
+      "id": 325,
+      "name": "Herik Marcos",
+      "stage": "Palco Paralello",
+      "start": "2025-01-02T03:00:00",
+      "end": "2025-01-02T05:00:00"
+    },
+    {
+      "id": 326,
+      "name": "Mandingaman",
+      "stage": "Palco Paralello",
+      "start": "2025-01-02T13:00:00",
+      "end": "2025-01-02T15:00:00"
+    },
+    {
+      "id": 327,
+      "name": "Marina Peralta",
+      "stage": "Palco Paralello",
+      "start": "2025-01-02T22:30:00",
+      "end": "2025-01-03T00:30:00"
+    },
+    {
+      "id": 328,
+      "name": "Puro Suco",
+      "stage": "Palco Paralello",
+      "start": "2025-01-03T08:00:00",
+      "end": "2025-01-03T09:30:00"
+    },
+    {
+      "id": 329,
+      "name": "Afterclapp",
+      "stage": "Chill Out",
+      "start": "2024-12-27T12:00:00",
+      "end": "2024-12-27T14:00:00"
+    },
+    {
+      "id": 330,
+      "name": "Aiyé (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-27T14:00:00",
+      "end": "2024-12-27T16:00:00"
+    },
+    {
+      "id": 331,
+      "name": "Alucine",
+      "stage": "Chill Out",
+      "start": "2024-12-27T16:00:00",
+      "end": "2024-12-27T18:00:00"
+    },
+    {
+      "id": 332,
+      "name": "Ancestrall",
+      "stage": "Chill Out",
+      "start": "2024-12-27T18:00:00",
+      "end": "2024-12-27T20:00:00"
+    },
+    {
+      "id": 333,
+      "name": "Angelo Martorell",
+      "stage": "Chill Out",
+      "start": "2024-12-27T20:00:00",
+      "end": "2024-12-27T22:00:00"
+    },
+    {
+      "id": 334,
+      "name": "Artéria FM (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-27T22:00:00",
+      "end": "2024-12-28T00:00:00"
+    },
+    {
+      "id": 335,
+      "name": "Arthur Roots",
+      "stage": "Chill Out",
+      "start": "2024-12-28T00:00:00",
+      "end": "2024-12-28T02:00:00"
+    },
+    {
+      "id": 336,
+      "name": "Beat Flavor",
+      "stage": "Chill Out",
+      "start": "2024-12-28T02:00:00",
+      "end": "2024-12-28T04:00:00"
+    },
+    {
+      "id": 337,
+      "name": "Boho",
+      "stage": "Chill Out",
+      "start": "2024-12-28T04:00:00",
+      "end": "2024-12-28T06:00:00"
+    },
+    {
+      "id": 338,
+      "name": "Bruno Afterall",
+      "stage": "Chill Out",
+      "start": "2024-12-28T06:00:00",
+      "end": "2024-12-28T08:00:00"
+    },
+    {
+      "id": 339,
+      "name": "Cacal",
+      "stage": "Chill Out",
+      "start": "2024-12-28T08:00:00",
+      "end": "2024-12-28T10:00:00"
+    },
+    {
+      "id": 340,
+      "name": "Caio Becker",
+      "stage": "Chill Out",
+      "start": "2024-12-28T10:00:00",
+      "end": "2024-12-28T12:00:00"
+    },
+    {
+      "id": 341,
+      "name": "Caio Foglieni",
+      "stage": "Chill Out",
+      "start": "2024-12-28T12:00:00",
+      "end": "2024-12-28T14:00:00"
+    },
+    {
+      "id": 342,
+      "name": "Calore (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-28T14:00:00",
+      "end": "2024-12-28T16:00:00"
+    },
+    {
+      "id": 343,
+      "name": "Catan Cotie",
+      "stage": "Chill Out",
+      "start": "2024-12-28T16:00:00",
+      "end": "2024-12-28T18:00:00"
+    },
+    {
+      "id": 344,
+      "name": "Cheitanya",
+      "stage": "Chill Out",
+      "start": "2024-12-28T18:00:00",
+      "end": "2024-12-28T20:00:00"
+    },
+    {
+      "id": 345,
+      "name": "Chico Correa & Txá Fulni-ô (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-28T20:00:00",
+      "end": "2024-12-28T22:00:00"
+    },
+    {
+      "id": 346,
+      "name": "Cido (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-28T22:00:00",
+      "end": "2024-12-29T00:00:00"
+    },
+    {
+      "id": 347,
+      "name": "Condor",
+      "stage": "Chill Out",
+      "start": "2024-12-29T00:00:00",
+      "end": "2024-12-29T02:00:00"
+    },
+    {
+      "id": 348,
+      "name": "DJ Bela",
+      "stage": "Chill Out",
+      "start": "2024-12-29T02:00:00",
+      "end": "2024-12-29T04:00:00"
+    },
+    {
+      "id": 349,
+      "name": "DJ Bill",
+      "stage": "Chill Out",
+      "start": "2024-12-29T04:00:00",
+      "end": "2024-12-29T06:00:00"
+    },
+    {
+      "id": 350,
+      "name": "DJ Juicy",
+      "stage": "Chill Out",
+      "start": "2024-12-29T06:00:00",
+      "end": "2024-12-29T08:00:00"
+    },
+    {
+      "id": 351,
+      "name": "DJ Jambruna",
+      "stage": "Chill Out",
+      "start": "2024-12-29T08:30:00",
+      "end": "2024-12-29T10:30:00"
+    },
+    {
+      "id": 352,
+      "name": "Djhai",
+      "stage": "Chill Out",
+      "start": "2024-12-29T10:30:00",
+      "end": "2024-12-29T12:30:00"
+    },
+    {
+      "id": 353,
+      "name": "Dulio vs Phantt",
+      "stage": "Chill Out",
+      "start": "2024-12-29T12:30:00",
+      "end": "2024-12-29T14:30:00"
+    },
+    {
+      "id": 354,
+      "name": "Ekanta Jake",
+      "stage": "Chill Out",
+      "start": "2024-12-29T14:30:00",
+      "end": "2024-12-29T16:30:00"
+    },
+    {
+      "id": 355,
+      "name": "Eric Terena",
+      "stage": "Chill Out",
+      "start": "2024-12-29T16:30:00",
+      "end": "2024-12-29T18:30:00"
+    },
+    {
+      "id": 356,
+      "name": "Fada",
+      "stage": "Chill Out",
+      "start": "2024-12-29T18:30:00",
+      "end": "2024-12-29T20:30:00"
+    },
+    {
+      "id": 357,
+      "name": "Frank & Fabian",
+      "stage": "Chill Out",
+      "start": "2024-12-29T20:30:00",
+      "end": "2024-12-29T22:30:00"
+    },
+    {
+      "id": 358,
+      "name": "Furmiga Dub (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-29T22:30:00",
+      "end": "2024-12-30T00:30:00"
+    },
+    {
+      "id": 359,
+      "name": "Gael",
+      "stage": "Chill Out",
+      "start": "2024-12-30T00:30:00",
+      "end": "2024-12-30T02:30:00"
+    },
+    {
+      "id": 360,
+      "name": "Get Lucky (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-30T02:30:00",
+      "end": "2024-12-30T04:30:00"
+    },
+    {
+      "id": 361,
+      "name": "Giullia in Trouble",
+      "stage": "Chill Out",
+      "start": "2024-12-30T04:30:00",
+      "end": "2024-12-30T06:30:00"
+    },
+    {
+      "id": 362,
+      "name": "Guaraci",
+      "stage": "Chill Out",
+      "start": "2024-12-30T06:30:00",
+      "end": "2024-12-30T08:30:00"
+    },
+    {
+      "id": 363,
+      "name": "Gus Caram feat. Rico Manzano & Bazza",
+      "stage": "Chill Out",
+      "start": "2024-12-30T08:30:00",
+      "end": "2024-12-30T10:30:00"
+    },
+    {
+      "id": 364,
+      "name": "Gustavo Lobo",
+      "stage": "Chill Out",
+      "start": "2024-12-30T10:30:00",
+      "end": "2024-12-30T12:30:00"
+    },
+    {
+      "id": 365,
+      "name": "Heloah",
+      "stage": "Chill Out",
+      "start": "2024-12-30T12:30:00",
+      "end": "2024-12-30T14:30:00"
+    },
+    {
+      "id": 366,
+      "name": "Illanes & Myha",
+      "stage": "Chill Out",
+      "start": "2024-12-30T14:30:00",
+      "end": "2024-12-30T16:30:00"
+    },
+    {
+      "id": 367,
+      "name": "Indigo X-Tudo",
+      "stage": "Chill Out",
+      "start": "2024-12-30T16:30:00",
+      "end": "2024-12-30T18:30:00"
+    },
+    {
+      "id": 368,
+      "name": "Indra Ruiz",
+      "stage": "Chill Out",
+      "start": "2024-12-30T18:30:00",
+      "end": "2024-12-30T20:30:00"
+    },
+    {
+      "id": 369,
+      "name": "Jaayology",
+      "stage": "Chill Out",
+      "start": "2024-12-30T20:30:00",
+      "end": "2024-12-30T22:30:00"
+    },
+    {
+      "id": 370,
+      "name": "João Nogueira",
+      "stage": "Chill Out",
+      "start": "2024-12-30T22:30:00",
+      "end": "2024-12-31T00:30:00"
+    },
+    {
+      "id": 371,
+      "name": "Letrícia (live)",
+      "stage": "Chill Out",
+      "start": "2024-12-31T00:30:00",
+      "end": "2024-12-31T02:30:00"
+    },
+    {
+      "id": 372,
+      "name": "Lukas Ferraz",
+      "stage": "Chill Out",
+      "start": "2024-12-31T03:00:00",
+      "end": "2024-12-31T05:00:00"
+    },
+    {
+      "id": 373,
+      "name": "Lysia",
+      "stage": "Chill Out",
+      "start": "2024-12-31T05:00:00",
+      "end": "2024-12-31T07:00:00"
+    },
+    {
+      "id": 374,
+      "name": "Mabui",
+      "stage": "Chill Out",
+      "start": "2024-12-31T07:00:00",
+      "end": "2024-12-31T09:00:00"
+    },
+    {
+      "id": 375,
+      "name": "Maga",
+      "stage": "Chill Out",
+      "start": "2024-12-31T09:00:00",
+      "end": "2024-12-31T11:00:00"
+    },
+    {
+      "id": 376,
+      "name": "Mandruvá",
+      "stage": "Chill Out",
+      "start": "2024-12-31T11:00:00",
+      "end": "2024-12-31T13:00:00"
+    },
+    {
+      "id": 377,
+      "name": "Manumat",
+      "stage": "Chill Out",
+      "start": "2024-12-31T13:00:00",
+      "end": "2024-12-31T15:00:00"
+    },
+    {
+      "id": 378,
+      "name": "Mapù",
+      "stage": "Chill Out",
+      "start": "2024-12-31T15:00:00",
+      "end": "2024-12-31T17:00:00"
+    },
+    {
+      "id": 379,
+      "name": "Marambaia",
+      "stage": "Chill Out",
+      "start": "2024-12-31T17:00:00",
+      "end": "2024-12-31T19:00:00"
+    },
+    {
+      "id": 380,
+      "name": "Matheus Mendes",
+      "stage": "Chill Out",
+      "start": "2024-12-31T19:00:00",
+      "end": "2024-12-31T21:00:00"
+    },
+    {
+      "id": 381,
+      "name": "Mavka & Diza",
+      "stage": "Chill Out",
+      "start": "2024-12-31T21:00:00",
+      "end": "2024-12-31T23:00:00"
+    },
+    {
+      "id": 382,
+      "name": "May",
+      "stage": "Chill Out",
+      "start": "2024-12-31T23:00:00",
+      "end": "2025-01-01T01:00:00"
+    },
+    {
+      "id": 383,
+      "name": "Meraki",
+      "stage": "Chill Out",
+      "start": "2025-01-01T01:00:00",
+      "end": "2025-01-01T03:00:00"
+    },
+    {
+      "id": 384,
+      "name": "Mista Savona",
+      "stage": "Chill Out",
+      "start": "2025-01-01T03:00:00",
+      "end": "2025-01-01T05:00:00"
+    },
+    {
+      "id": 385,
+      "name": "Mondocane",
+      "stage": "Chill Out",
+      "start": "2025-01-01T05:00:00",
+      "end": "2025-01-01T07:00:00"
+    },
+    {
+      "id": 386,
+      "name": "Murilo Ganesh",
+      "stage": "Chill Out",
+      "start": "2025-01-01T07:00:00",
+      "end": "2025-01-01T09:00:00"
+    },
+    {
+      "id": 387,
+      "name": "Nelson D (live)",
+      "stage": "Chill Out",
+      "start": "2025-01-01T09:00:00",
+      "end": "2025-01-01T11:00:00"
+    },
+    {
+      "id": 388,
+      "name": "Neuroniohm",
+      "stage": "Chill Out",
+      "start": "2025-01-01T11:00:00",
+      "end": "2025-01-01T13:00:00"
+    },
+    {
+      "id": 389,
+      "name": "Nihanna",
+      "stage": "Chill Out",
+      "start": "2025-01-01T13:00:00",
+      "end": "2025-01-01T15:00:00"
+    },
+    {
+      "id": 390,
+      "name": "Nubreak",
+      "stage": "Chill Out",
+      "start": "2025-01-01T15:00:00",
+      "end": "2025-01-01T17:00:00"
+    },
+    {
+      "id": 391,
+      "name": "Pacal & Tiano Bless",
+      "stage": "Chill Out",
+      "start": "2025-01-01T17:00:00",
+      "end": "2025-01-01T19:00:00"
+    },
+    {
+      "id": 392,
+      "name": "Pedro Bob in Dub",
+      "stage": "Chill Out",
+      "start": "2025-01-01T19:00:00",
+      "end": "2025-01-01T21:00:00"
+    },
+    {
+      "id": 393,
+      "name": "Peu Alves (live)",
+      "stage": "Chill Out",
+      "start": "2025-01-01T21:00:00",
+      "end": "2025-01-01T23:00:00"
+    },
+    {
+      "id": 394,
+      "name": "Psilo Ser",
+      "stage": "Chill Out",
+      "start": "2025-01-01T23:30:00",
+      "end": "2025-01-02T01:30:00"
+    },
+    {
+      "id": 395,
+      "name": "Preta de Quebrada",
+      "stage": "Chill Out",
+      "start": "2025-01-02T01:30:00",
+      "end": "2025-01-02T03:30:00"
+    },
+    {
+      "id": 396,
+      "name": "Rabana",
+      "stage": "Chill Out",
+      "start": "2025-01-02T03:30:00",
+      "end": "2025-01-02T05:30:00"
+    },
+    {
+      "id": 397,
+      "name": "Rabello",
+      "stage": "Chill Out",
+      "start": "2025-01-02T05:30:00",
+      "end": "2025-01-02T07:30:00"
+    },
+    {
+      "id": 398,
+      "name": "Rafa Canholato",
+      "stage": "Chill Out",
+      "start": "2025-01-02T07:30:00",
+      "end": "2025-01-02T09:30:00"
+    },
+    {
+      "id": 399,
+      "name": "Rajna Leela",
+      "stage": "Chill Out",
+      "start": "2025-01-02T09:30:00",
+      "end": "2025-01-02T11:30:00"
+    },
+    {
+      "id": 400,
+      "name": "Rica Amaral",
+      "stage": "Chill Out",
+      "start": "2025-01-02T11:30:00",
+      "end": "2025-01-02T13:30:00"
+    },
+    {
+      "id": 401,
+      "name": "Sallun",
+      "stage": "Chill Out",
+      "start": "2025-01-02T13:30:00",
+      "end": "2025-01-02T15:30:00"
+    },
+    {
+      "id": 402,
+      "name": "San Ignacio (live)",
+      "stage": "Chill Out",
+      "start": "2025-01-02T15:30:00",
+      "end": "2025-01-02T17:30:00"
+    },
+    {
+      "id": 403,
+      "name": "Sebantian Venu",
+      "stage": "Chill Out",
+      "start": "2025-01-02T17:30:00",
+      "end": "2025-01-02T19:30:00"
+    },
+    {
+      "id": 404,
+      "name": "Shigara feat. Oric (live)",
+      "stage": "Chill Out",
+      "start": "2025-01-02T19:30:00",
+      "end": "2025-01-02T21:30:00"
+    },
+    {
+      "id": 405,
+      "name": "Shu",
+      "stage": "Chill Out",
+      "start": "2025-01-02T21:30:00",
+      "end": "2025-01-02T23:30:00"
+    },
+    {
+      "id": 406,
+      "name": "Swarup",
+      "stage": "Chill Out",
+      "start": "2025-01-02T23:30:00",
+      "end": "2025-01-03T01:30:00"
+    },
+    {
+      "id": 407,
+      "name": "Synesthezk",
+      "stage": "Chill Out",
+      "start": "2025-01-03T01:30:00",
+      "end": "2025-01-03T03:30:00"
+    },
+    {
+      "id": 408,
+      "name": "Tesfon",
+      "stage": "Chill Out",
+      "start": "2025-01-03T03:30:00",
+      "end": "2025-01-03T05:30:00"
+    },
+    {
+      "id": 409,
+      "name": "Victor Rizzo",
+      "stage": "Chill Out",
+      "start": "2025-01-03T05:30:00",
+      "end": "2025-01-03T07:30:00"
+    },
+    {
+      "id": 410,
+      "name": "Xamã vs Santosha",
+      "stage": "Chill Out",
+      "start": "2025-01-03T07:30:00",
+      "end": "2025-01-03T09:30:00"
+    },
+    {
+      "id": 411,
+      "name": "Xico Anastasia",
+      "stage": "Chill Out",
+      "start": "2025-01-03T09:30:00",
+      "end": "2025-01-03T11:30:00"
+    },
+    {
+      "id": 412,
+      "name": "Yaguareté (live)",
+      "stage": "Chill Out",
+      "start": "2025-01-03T11:30:00",
+      "end": "2025-01-03T13:30:00"
+    },
+    {
+      "id": 413,
+      "name": "Zel",
+      "stage": "Chill Out",
+      "start": "2025-01-03T13:30:00",
+      "end": "2025-01-03T15:30:00"
+    },
+    {
+      "id": 414,
+      "name": "Zimba Selektor",
+      "stage": "Chill Out",
+      "start": "2025-01-03T15:30:00",
+      "end": "2025-01-03T17:00:00"
+    }
+  ]
+}

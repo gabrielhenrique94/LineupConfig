@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "title": "Universo Paralelo",
+  "lineupColors": {
+    "light": {
+      "primary": "#2647A6",
+      "onPrimary": "#FFFFFF",
+      "primaryContainer": "#DCE4FF",
+      "onPrimaryContainer": "#0E1E54",
+      "secondary": "#4A556E",
+      "onSecondary": "#FFFFFF",
+      "secondaryContainer": "#E4E9F4",
+      "onSecondaryContainer": "#172036",
+      "tertiary": "#C97A00",
+      "onTertiary": "#FFFFFF",
+      "backgroundColor": "#F4F6FA",
+      "fontColor": "#141926",
+      "cardFontColor": "#111622",
+      "surface": "#FFFFFF",
+      "onSurface": "#141926",
+      "surfaceVariant": "#E9EEF7",
+      "onSurfaceVariant": "#4A546B",
+      "outline": "#727D96",
+      "outlineVariant": "#D0D7E6",
+      "error": "#B3261E",
+      "onError": "#FFFFFF",
+      "errorContainer": "#F9DEDC",
+      "onErrorContainer": "#410E0B",
+      "favoriteColor": "#C97A00",
+      "currentTimeColor": "#E04838"
+    },
+    "dark": {
+      "primary": "#8EA4FF",
+      "onPrimary": "#0D183D",
+      "primaryContainer": "#22305A",
+      "onPrimaryContainer": "#DCE4FF",
+      "secondary": "#AAB7D4",
+      "onSecondary": "#141D33",
+      "secondaryContainer": "#20293E",
+      "onSecondaryContainer": "#DCE3F4",
+      "tertiary": "#F7B93E",
+      "onTertiary": "#2B1C00",
+      "backgroundColor": "#0E121B",
+      "fontColor": "#E8ECF5",
+      "cardFontColor": "#F0F3FA",
+      "surface": "#151B27",
+      "onSurface": "#E8ECF5",
+      "surfaceVariant": "#1E2636",
+      "onSurfaceVariant": "#A9B4CC",
+      "outline": "#6B7894",
+      "outlineVariant": "#283248",
+      "error": "#FFB4AB",
+      "onError": "#690005",
+      "errorContainer": "#4A1B1E",
+      "onErrorContainer": "#FFDAD6",
+      "favoriteColor": "#F7B93E",
+      "currentTimeColor": "#E04838"
+    }
+  },
+  "notifications": {
+    "minReminderMinutes": 5,
+    "maxReminderMinutes": 60,
+    "maxRemindersPerSet": 2,
+    "defaultReminderMinutes": 15,
+    "maxSetStartAlarms": 200,
+    "suggestedTimes": [15, 30, 10, 45, 5, 60]
+  },
+  "daySplit": {
+    "enabled": false,
+    "dayStartHour": "06:00",
+    "dayEndHour": "04:00"
+  },
+  "updates": {
+    "versionsUrl": "",
+    "festivalConfigUrl": "",
+    "lineupUrl": ""
+  },
+  "stages": [
+    {
+      "name": "Main Floor",
+      "displayName": "Main Floor",
+      "primaryColor": "#9FA8DA",
+      "secondaryColor": "#7986CB",
+      "accentColor": "#3F51B5",
+      "darkPrimaryColor": "#343D70",
+      "darkSecondaryColor": "#29305A",
+      "darkAccentColor": "#8C9EFF"
+    },
+    {
+      "name": "303 Stage",
+      "displayName": "303 Stage",
+      "primaryColor": "#FFCCBC",
+      "secondaryColor": "#FFAB91",
+      "accentColor": "#E64A19",
+      "darkPrimaryColor": "#5D2D21",
+      "darkSecondaryColor": "#4B2319",
+      "darkAccentColor": "#FF8A65"
+    },
+    {
+      "name": "Utopia",
+      "displayName": "Utopia",
+      "primaryColor": "#B2DFDB",
+      "secondaryColor": "#80CBC4",
+      "accentColor": "#00897B",
+      "darkPrimaryColor": "#194B46",
+      "darkSecondaryColor": "#133B37",
+      "darkAccentColor": "#4DB6AC"
+    },
+    {
+      "name": "Surreal apresenta Art Car Ritual",
+      "displayName": "Art Car Ritual",
+      "primaryColor": "#FFE082",
+      "secondaryColor": "#FFD54F",
+      "accentColor": "#F9A825",
+      "darkPrimaryColor": "#574113",
+      "darkSecondaryColor": "#46340F",
+      "darkAccentColor": "#FFCA28"
+    },
+    {
+      "name": "Palco Paralello",
+      "displayName": "Palco Paralello",
+      "primaryColor": "#E1BEE7",
+      "secondaryColor": "#CE93D8",
+      "accentColor": "#8E24AA",
+      "darkPrimaryColor": "#4D265B",
+      "darkSecondaryColor": "#3D1D48",
+      "darkAccentColor": "#CE93D8"
+    },
+    {
+      "name": "Chill Out",
+      "displayName": "Chill Out",
+      "primaryColor": "#BBDEFB",
+      "secondaryColor": "#90CAF9",
+      "accentColor": "#1E88E5",
+      "darkPrimaryColor": "#1D3F61",
+      "darkSecondaryColor": "#16324E",
+      "darkAccentColor": "#64B5F6"
+    }
+  ]
+}
